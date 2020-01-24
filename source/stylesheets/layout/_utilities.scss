@@ -1,0 +1,75 @@
+/* -------------------------------------
+ * Utilities classes
+ * These are examples of utilities classes
+ * Feel free to change them and create your own
+ * ------------------------------------- */
+.padded {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+.bg-red {
+  background: $red;
+  color: #F5F0F5;
+}
+.bg-blue {
+  background: $blue;
+  color: #F5F0F5;
+}
+.bg-yellow {
+  background: $yellow;
+  color: #F5F0F5;
+}
+.bg-orange {
+  background: $orange;
+  color: #F5F0F5;
+}
+.bg-green {
+  background: $green;
+  color: #F5F0F5;
+}
+.bg-purple {
+  background: $purple;
+  color: #F5F0F5;
+}
+
+
+.intro-card {
+  height: 55vh;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  padding: 17vh;
+  color: #F5F0F5;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  h1 {
+    font-size: 2vw;
+  }
+  p {
+    font-size: 2vw;
+  }
+}
+
+.location-card {
+  height: 125px;
+  margin-left: 46vh;
+  margin-right: 46vh;
+  padding: 2px;
+  color: #4E1C1D;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  // background-color: rgba(#4E1C1D, .7);
+}
+
+.hours-card {
+  height: 150px;
+  margin-left: 46vh;
+  margin-right: 46vh;
+  padding: 2px;
+  color: #4E1C1D;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  // background-color: rgba(#4E1C1D, .7);
+}
